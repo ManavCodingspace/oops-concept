@@ -10,4 +10,14 @@
 
  3. ***OOPS CONCEPT***
  4.    1. **CLASS**
-       2.      -          
+               -  IT DESCRIBES THE THINGS OF THE OBJECT WHICH BELONGS TO IT
+        2. **OBJECTS**
+               - OBJECTS ARE THE ELEMENTS OF THE CLASS.
+         3. **METHODS**
+                - IT IS THE ACTION THAT AN OBJECT IS ABLE TO PERFORM
+
+          4. **DATA ABSTRACTION**
+          5.    - PROVIDES ESSENTIAN INFORMATION TO THE USERR BY HIDDING THE INSIDE DESTAILS AND INSTRUCTION
+
+          6. **ENCAPSULATION**
+          7.    -      
